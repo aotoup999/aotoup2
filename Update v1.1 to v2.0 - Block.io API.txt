@@ -1,0 +1,10 @@
+Update instruction:
+
+We changed structure of platform, and added some new features and this need special update.
+
+1. Copy all files from "BitcoinWallet v2.0 with Block.io API" to your website directory, overwrite old files.
+2. Delete install.php (this is not new installation, just update)
+3. Copy file update.php from folder "Update to v2.0" and paste it in your website directory.
+4. Run your website address with update.php of the end. For example: http://YourWallet.com/update.php
+
+That is all!
